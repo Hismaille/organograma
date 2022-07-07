@@ -3,7 +3,7 @@
   <img src="./public/imagens/Logo2.png" alt="Formulario Simples e Responsivo" width="120" border-radius="50%">
 <br>
 <br>
-<a href="https://organograma-mzz62aibu-hismaille.vercel.app/">https://organograma-mzz62aibu-hismaille.vercel.app/</a>
+<a href="https://organograma-mzz62aibu-hismaille.vercel.app/" target="_blank">https://organograma-mzz62aibu-hismaille.vercel.app/</a>
 <br>
 Organograma para desenvolvedores de games.
 </h1>
